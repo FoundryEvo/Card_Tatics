@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89ea90ada6868e140b19a527821b53a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Scripts/Utility/Editor/Autotiles3D_GridRaycast.cs
+  uploadId: 595718

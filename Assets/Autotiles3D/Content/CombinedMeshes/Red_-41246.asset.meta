@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef643db589c5d9b4dbe6b69705cbf2df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/Red_-41246.asset
+  uploadId: 595718

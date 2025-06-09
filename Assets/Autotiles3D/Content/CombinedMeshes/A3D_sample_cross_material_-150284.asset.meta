@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc2472f5569595d4ba597714e0c1d3c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/A3D_sample_cross_material_-150284.asset
+  uploadId: 595718

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e46ff0ad19cdc0f489a3041f0732a07c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Materials/Materials/A3D_Unlit_BluePink.mat
+  uploadId: 595718

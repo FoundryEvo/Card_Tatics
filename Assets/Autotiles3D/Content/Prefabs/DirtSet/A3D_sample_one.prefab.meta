@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: acca25438ea85ec46a52e6c2f44b03bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/DirtSet/A3D_sample_one.prefab
+  uploadId: 595718

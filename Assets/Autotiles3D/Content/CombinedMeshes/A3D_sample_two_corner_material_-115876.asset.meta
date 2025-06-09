@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 143c4f3801b3cf44cb6fce08f8a3fb99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/A3D_sample_two_corner_material_-115876.asset
+  uploadId: 595718

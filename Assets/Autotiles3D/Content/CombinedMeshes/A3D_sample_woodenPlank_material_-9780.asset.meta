@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e20438075099e8428958d2b0274c398
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/A3D_sample_woodenPlank_material_-9780.asset
+  uploadId: 595718

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9f1abefc6d2f3d4a99a09e824626fc8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/A3D_sample_solid_top_material_-72704.asset
+  uploadId: 595718

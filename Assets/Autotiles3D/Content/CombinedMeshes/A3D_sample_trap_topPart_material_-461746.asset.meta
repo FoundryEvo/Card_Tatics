@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d3a6e5a77d8f9e4986202c1d7e2ac1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/A3D_sample_trap_topPart_material_-461746.asset
+  uploadId: 595718

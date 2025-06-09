@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1ed28e4cf1f16f4ab7f93a98caef7a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/CastleSet/A3D_sample_woodenPlank.prefab
+  uploadId: 595718

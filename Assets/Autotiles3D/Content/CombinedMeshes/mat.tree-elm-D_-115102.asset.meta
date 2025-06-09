@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b21c95239b3a1cc46a9376fa5abeb824
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/CombinedMeshes/mat.tree-elm-D_-115102.asset
+  uploadId: 595718

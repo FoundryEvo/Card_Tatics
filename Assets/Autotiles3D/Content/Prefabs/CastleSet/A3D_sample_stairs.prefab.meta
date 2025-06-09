@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a909e6af751c6e2478db90348d394247
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/CastleSet/A3D_sample_stairs.prefab
+  uploadId: 595718

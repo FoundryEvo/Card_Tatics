@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 086471ca33d4b294b87b2cecdd98e4fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Resources/TileGroup_Autotiles3D_Castle.asset
+  uploadId: 595718

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8fc10116b43ec64b97c440844d383dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/CastleSet/A3D_sample_cross.prefab
+  uploadId: 595718

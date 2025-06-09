@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e645b6cfd47af9e43b17906d0b74c3a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/RandomSet/GreenCube.prefab
+  uploadId: 595718

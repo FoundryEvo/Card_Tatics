@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1edde58f529342444af1e40ece72ce29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Resources/A3_Random_Demo.asset
+  uploadId: 595718

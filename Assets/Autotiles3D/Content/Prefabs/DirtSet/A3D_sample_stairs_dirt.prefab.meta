@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7acc8e8b477a8f74ea935b6e0eb3d5f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205724
+  packageName: Autotiles 3D - Tilemap Level Editor
+  packageVersion: 1.3.4
+  assetPath: Assets/Autotiles3D/Content/Prefabs/DirtSet/A3D_sample_stairs_dirt.prefab
+  uploadId: 595718
