@@ -24,6 +24,7 @@ public class MonoMgr : Singleton<MonoMgr>
         controller.AddUpdateListener(action);
     }
 
+
     /// <summary>
     /// 提供给外部 用于移除帧更新事件函数
     /// </summary>

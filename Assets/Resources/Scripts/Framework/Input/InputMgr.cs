@@ -21,6 +21,7 @@ public class InputMgr : Singleton<InputMgr>
         isStart = isOpen;
     }
 
+
     /// <summary>
     /// 用来检测按键抬起按下 分发事件的
     /// </summary>
@@ -38,6 +39,16 @@ public class InputMgr : Singleton<InputMgr>
             EventCenter.Instance().EventTrigger("Key", key);
     }
 
+    private void CheckMouseKey(int mouse)
+    {
+        if (Input.GetMouseButtonDown(mouse))
+            EventCenter.Instance().EventTrigger("MouseDown", mouse);
+        if (Input.GetMouseButtonUp(mouse))
+            EventCenter.Instance().EventTrigger("MouseUp", mouse);
+        if (Input.GetMouseButton(mouse))
+            EventCenter.Instance().EventTrigger("Mouse", mouse);
+
+    }
     private void MyUpdate()
     {
         //没有开启输入检测 就不去检测 直接return
@@ -67,7 +78,7 @@ public class InputMgr : Singleton<InputMgr>
         CheckKeyCode(KeyCode.RightArrow);
         CheckKeyCode(KeyCode.DownArrow);
         CheckKeyCode(KeyCode.I);
-        CheckKeyCode(KeyCode.Mouse0);
-        CheckKeyCode(KeyCode.Mouse1);
+        CheckMouseKey(0);
+        CheckMouseKey(1);
     }
 }

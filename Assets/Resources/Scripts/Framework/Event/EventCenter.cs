@@ -105,7 +105,7 @@ public class EventCenter : Singleton<EventCenter>
     {   //判断是否存在该事件
         if (eventDic.ContainsKey(name))
         {   //如果存在，判断委托是否为空，如果不为空则触发
-            if ((eventDic[name] as CustomEvent).actions != null)
+            if ((eventDic[name] as CustomEvent<T>)?.actions != null)
             {   //触发该事件
                 (eventDic[name] as CustomEvent<T>).actions.Invoke(info);
             }
